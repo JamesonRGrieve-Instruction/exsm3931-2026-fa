@@ -1,0 +1,6 @@
+Motherboard - Management Floor 
+CPU (Central Processing Unit) - Factory Floor 
+GPU (Graphics Processing Unit) - Marketing Department 
+PSU (Power Supply Unit) - Breaker Box 
+RAM (Random Access Memory) - Employees
+HDD/SSD (Hard Drive Disk / Solid State Disk / Storage) - Records Office
