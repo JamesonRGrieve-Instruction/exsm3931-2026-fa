@@ -2,3 +2,7 @@ File States:
 U - Untracked
 A - Added
 M - Modified
+
+Remotes
+Branches
+Forks
